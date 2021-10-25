@@ -1,1 +1,14 @@
-For my final project, I decided to recreate a local 4-player computer game that I used to play as a kid in Lua. The game is 4-player TRON, and as a kid, my cousins, my friends, and I would have an absolute blast playing together on one computer; howevever, one day the game was taken down from the gaming website we used to play it on, and no matter where we looked, we could not find this game. Only 2-player TRON was left, which was more flashy and developed better, but it did not allow my cousins, my friends, and I to all play together. As there were always a lot of us and only one computer, 2-player TRON did not provide an adequate substitute for the 4-player TRON that we grew to love. Shortly, after 4-player TRON disappeared, I never played TRON again - that is until this course. After taking the Gaming Track and learning Lua, CS50 supplied me with the skillset to reconstruct 4-player TRON from scratch. To me, 4-player TRON is a staple of my childhood, and I truly enjoyed recreating it and playing with my cousins and my friends after, reliving our childhood. I spent a great deal of time developing this game, and I am proud of how it came out. Thank you CS50; please, check out my game, and enjoy!
+# 6-player TRON with AI
+
+TRON is a simple 6-player game with AI functionality modeled after the well-known TRON computer game.
+
+## Controls
+
+Upon entry, controls are located directly under each playable rider; if the rider is not playable, "AI" is located directly under it.
+
+The number of players, AI, and Rounds to Win are chosen at the beginning of the game using numbered keys 0-9, backspace, and enter/return or space.
+
+Throughout the game, 'esc' can be used to quit, 'p' can be used to pause, and 'r' can be used to restart.
+
+## Credit
+The class and push files used in this code were made by  Matthias Richter and Ulysse Ramage respectively.
